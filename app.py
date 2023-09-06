@@ -13,4 +13,4 @@ def home():
 
 if __name__ == '__main__':
     # Start de Flask-ontwikkelingsserver
-    app.run(debug=True)
+    app.run()
