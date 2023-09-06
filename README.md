@@ -8,4 +8,4 @@ Ready, Play, Shriek.
 
 Ask us on Discord! Link will Follow!
 
-AmbrozePhoebus and Orim!
+AmbrozePhoebus, Orim, Humper and Suus!

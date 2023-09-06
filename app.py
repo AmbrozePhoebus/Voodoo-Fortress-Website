@@ -1,12 +1,16 @@
-from flask import Flask
+from flask import Flask, render_template
 
-# Maak een Flask-app
+# Maak een Flask-applicatie
 app = Flask(__name__)
 
 # Definieer een route voor de startpagina
 @app.route('/')
 def home():
-    return 'Welkom op mijn website!'
+    # Laad de HTML-template in en geef deze weer
+    return render_template('Horror.html')
+
+# Voeg meer routes toe zoals gewenst
 
 if __name__ == '__main__':
-    app.run()
+    # Start de Flask-ontwikkelingsserver
+    app.run(debug=True)
