@@ -6,7 +6,7 @@ app = Flask(__name__)
 # Definieer een route voor de startpagina
 @app.route('/')
 def home():
-    # Laad de HTMLtemplate in en geef deze weer
+    # Laad de HTML-template in en geef deze weer
     return render_template('Horror.html')
 
 # Voeg meer routes toe zoals gewenst
