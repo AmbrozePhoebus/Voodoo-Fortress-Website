@@ -7,6 +7,14 @@ body {
     text-align: center;
   }
   
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
   p {
     font-family: verdana;
     font-size: 20px;
