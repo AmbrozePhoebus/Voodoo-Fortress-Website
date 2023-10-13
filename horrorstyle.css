@@ -19,7 +19,6 @@ h3 {
     font-family: verdana;
     font-size: 20px;
   }
-  image{
-    display: block;
-    
+  img{
+    position: center;
   }
