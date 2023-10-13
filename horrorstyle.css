@@ -21,7 +21,6 @@ h3 {
   }
   .preview {
     float: left;
-    position:relative;
     top: 50px;
     left: 100px;
 }
