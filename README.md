@@ -1,4 +1,4 @@
-# Welcome to the Game - VooDoo Fortress
+# Welcome to the Game - Voodoo Fortress
 
  This project is made as an ambitius school assignment. It will be a horror escape room, somewhat inspired by Canadla Obscura (see: Darrington Press/Critical Role) We inspire to be creepy.
 
