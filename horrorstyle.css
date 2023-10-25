@@ -6,6 +6,11 @@ body {
     font-family: 'Sedgwick Ave Display', cursive;
   }
   
+  title{
+    text-align: center;
+  }
+
+
   h1 {
     color: white;
     text-align:50%
