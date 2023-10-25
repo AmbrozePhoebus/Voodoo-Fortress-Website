@@ -1,5 +1,8 @@
 body {
     background-color: rgb(32, 61, 32);
+    background-image: url(starterhouse.jpg);
+    background-repeat: 	no-repeat;
+    background-size: cover;
   }
   
   h1 {
@@ -19,12 +22,7 @@ h3 {
     font-family: verdana;
     font-size: 20px;
   }
-  .preview {
-    float: left;
-    margin-top: 3%;
-    top: 50px;
-    left: 100px;
-}
+
 .tekst {
   margin-top: 20%;
 }
