@@ -1,8 +1,10 @@
+
 body {
     background-color: rgb(32, 61, 32);
     background-image: url(starterhouse.jpg);
     background-repeat: 	no-repeat;
     background-size: cover;
+    font-family: 'Sedgwick Ave Display', cursive;
   }
   
   h1 {
