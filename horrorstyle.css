@@ -1,4 +1,6 @@
-
+style{
+  @import url:'https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap'
+}
 body {
     background-color: rgb(32, 61, 32);
     background-image: url(starterhouse.jpg);
