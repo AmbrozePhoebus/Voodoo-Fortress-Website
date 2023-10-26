@@ -35,3 +35,6 @@ h3 {
 .button{
   size: 0px;
 }
+[id=menu] {
+	display: none;
+}
